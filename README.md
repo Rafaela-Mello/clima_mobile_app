@@ -1,6 +1,6 @@
 # Clima Mobile App
 
-Aplicativo mobile de previsão do tempo, desenvolvido em **React Native** com **Expo**, utilizando uma **API de clima** para exibir informações em tempo real.
+Aplicativo mobile de previsão do tempo, desenvolvido em React Native com Expo, utilizando uma API de clima para exibir informações em tempo real.
 
 Este projeto foi criado com o objetivo de praticar e aprimorar habilidades em desenvolvimento mobile e consumo de APIs.
 
