@@ -1,16 +1,19 @@
 # Clima Mobile App
 
-Aplicativo mobile de previsão do tempo, desenvolvido em React Native com Expo, utilizando uma API de clima para exibir informações em tempo real.
+Mobile weather forecast app developed using **React Native** with **Expo**, integrating a weather API to display real-time information.
 
-Este projeto foi criado com o objetivo de praticar e aprimorar habilidades em desenvolvimento mobile e consumo de APIs.
+This project was created as a way to practice and improve skills in mobile development and API consumption.
 
-## **Tecnologias:**
-- React Native
-- Expo
-- API de Clima (ex: OpenWeatherMap)
+## **Technologies:**
+- React Native  
+- Expo  
+- Weather API (e.g., OpenWeatherMap)
 
-## **Ambiente de desenvolvimento:**
-O app foi desenvolvido e executado no **Ubuntu Linux**, utilizando o seguinte comando para iniciar o projeto:
+## **Development Environment:**
+The app was developed and run on **Ubuntu Linux**, using the following command to start the project:
 
 ```bash
 npx expo start --tunnel
+bash
+Copiar
+Editar
