@@ -14,4 +14,3 @@ The app was developed and run on **Ubuntu Linux**, using the following command t
 
 ```bash
 npx expo start --tunnel
-bash
